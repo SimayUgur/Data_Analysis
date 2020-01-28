@@ -12,4 +12,3 @@ I will try to answer this question from data that given :
 * Model the success and failure of projects published on Kickstarter to reach the targeted fund (investment). *
 * What category of project would most likely succeed (Art, Photography, Tech etc.) * 
 * Which factors affect investment success? *
-
