@@ -8,7 +8,8 @@ Kickstarter Is an American public-benefit corporation based in Brooklyn, New Yor
 
 ## Understanding the Business Use Case
 I will try to answer this question from data that given :
-*Model the success and failure of projects published on Kickstarter to reach the targeted fund (investment).*
+
+* Model the success and failure of projects published on Kickstarter to reach the targeted fund (investment). *
 * What category of project would most likely succeed (Art, Photography, Tech etc.) * 
 * Which factors affect investment success? *
 
